@@ -1,0 +1,66 @@
+.text-ijo {
+    color: #576250;
+}
+
+.text-wed {
+    color: #B8c1B2;
+}
+
+.boska-text {
+    font-family: Boska;
+}
+
+.bg-banner {
+    background-image: url('../Img/Banner.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-text {
+    font-family: Boska;
+    text-align: center;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 64px;
+    color: #576250;
+}
+
+.margin-bawah {
+    padding-bottom: 400px;
+}
+
+.pos-location {
+    position: absolute;
+    bottom: 0;
+    color: white;
+    padding: 10px;
+
+}
+
+.pos-center {
+    position: absolute;
+    bottom: 0;
+    right: 35%;
+    color: white;
+    padding: 10px;
+}
+
+.pos-location-top-right {
+    position: absolute;
+    right: 0;
+    color: white;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+
+.pos-relative {
+    position: relative;
+}
+
+.bg-testi {
+    background-color: #576250;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
